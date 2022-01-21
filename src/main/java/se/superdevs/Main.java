@@ -117,6 +117,7 @@ public class Main {
                     }
                 });
         //hello
+        //jdsj
         // Skapa en klass Month, som innehåller dels ett fält för månadens namn,
         // dels en List<Double> på ett antal uppmätta temperaturer under den månaden.
         // I din main-klass, skapa i sin tur en lista med årets tolv sådana månader.
